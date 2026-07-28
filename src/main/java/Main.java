@@ -24,7 +24,7 @@ public class Main {
                     scanner.next();
                     continue;
                 }
-//                Исправила, хотя в задании указано >0.
+//                Исправила, хотя в задании указано >0
                 speed = scanner.nextInt();
                 if (speed >= 0 && speed <= 250) {
                     scanner.nextLine();
